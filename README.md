@@ -1,10 +1,14 @@
-## 👋 Hello World !! 🌎 I'm Samir Mamede, university in systems analysis and development. 🤓✔️
+# 👋 Hello World !! 🌎 
+## I'm Samir Mamede, university in systems analysis and development. 🤓✔️ ##
 
-🚀 Atualmente fazendo o NExT do CESAR School e no primeiro período de Análise e
+- 🚀 Atualmente fazendo o NExT do CESAR School e no primeiro período de Análise e
  Desenvolvimento de Sistemas.
-🎯 Módulos concluídos do NExT: Lógica da programação, Python 🐍🐼, versionamento usando Git.
-🏆 Alguns cursos concluídos pela plataforma Digital Innovation One. 
-👾 Now Learning Java.
+- 🎯 Módulos concluídos do NExT: 
+   - Lógica da programação 🧑‍💻 
+   - Python 🐍🐼 
+   - versionamento usando Git 🧱
+- 🏆 Alguns cursos concluídos pela plataforma Digital Innovation One. 
+- 👾 Now Learning Java.
 
 <div align="left">
   <a href="https://github.com/SamirMamede">
