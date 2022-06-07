@@ -1,14 +1,15 @@
 # 👋 Hello World !! 🌎 
-## I'm Samir Mamede, university in systems analysis and development. 🤓✔️ ##
+## I'm Samir Mamede, university in systems analysis and development. 🕺 ##
 
 - 🚀 Atualmente fazendo o NExT do CESAR School e no primeiro período de Análise e
  Desenvolvimento de Sistemas.
 - 🎯 Módulos concluídos do NExT: 
-   - Lógica da programação 🧑‍💻 
+   - Lógica da programação 👨‍💻 
    - Python 🐍🐼 
-   - versionamento usando Git 🧱
+   - versionamento usando Git 🧱🏗
+   - Java ☕
 - 🏆 Alguns cursos concluídos pela plataforma Digital Innovation One. 
-- 👾 Now Learning Java.
+- 👾 Now practical experience at CESAR.
 
 <div align="left">
   <a href="https://github.com/SamirMamede">
@@ -23,6 +24,11 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </div>
   
   
