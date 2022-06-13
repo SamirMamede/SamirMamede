@@ -1,5 +1,7 @@
-# 👋 Hello World !! 🌎 
-## I'm Samir Mamede, university in systems analysis and development. 🕺 ##
+<div align="center">
+ <h2> Hello, i'm Anuar Samir !! 🛸</h2>
+ <h2> University in systems analysis and development. 🤵 </h2>
+</div>
 
 - 🚀 Atualmente fazendo o NExT do CESAR School e no primeiro período de Análise e
  Desenvolvimento de Sistemas.
