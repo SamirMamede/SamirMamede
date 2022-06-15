@@ -3,15 +3,14 @@
  <h2> University in systems analysis and development. 🤵 </h2>
 </div>
 
-- 🚀 Atualmente fazendo o NExT do CESAR School e no primeiro período de Análise e
- Desenvolvimento de Sistemas.
-- 🎯 Módulos concluídos do NExT: 
-   - Lógica da programação 👨‍💻 
+- 🚀 Finishing NExT at CESAR school and attending the first period of ADS.
+- 🎯 Completed modules NExT: 
+   - Programming logic 👨‍💻 
    - Python 🐍🐼 
-   - versionamento usando Git 🧱🏗
+   - Versioning using Git 🧱🏗
    - Java ☕
-- 🏆 Alguns cursos concluídos pela plataforma Digital Innovation One. 
-- 👾 Now practical experience at CESAR.
+- 🏆 Some courses completed by the platform Digital Innovation One. 
+- 👾 Now developing an api in the practical experience CESAR.
 
 <div align="left">
   <a href="https://github.com/SamirMamede">
