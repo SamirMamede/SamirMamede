@@ -4,13 +4,14 @@
 </div>
 
 - 🚀 Finishing NExT at CESAR school and attending the first period of ADS.
-- 🎯 Completed modules NExT: 
+- 🏆 NExT CESAR: 
    - Programming logic 👨‍💻 
    - Python 🐍🐼 
    - Versioning using Git 🧱🏗
    - Java ☕
+   - Practice experience ⚡️
 - 🏆 Some courses completed by the platform Digital Innovation One. 
-- 👾 Now developing an api in the practical experience CESAR.
+- 🏆 API for sending emails with deploy on heroku, developed in the final challenge NExT CESAR.
 
 <div align="left">
   <a href="https://github.com/SamirMamede">
