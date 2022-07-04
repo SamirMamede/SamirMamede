@@ -1,7 +1,8 @@
 <div align="center">
- <h2> Hello, i'm Anuar Samir !! 🛸</h2>
+ 🛸
+ <h2> Hello, i'm Anuar Samir !!</h2>
  
- <h2> University in systems analysis and development. 🤵 </h2>
+ <h2> University in systems analysis and development. </h2>
  
 ![giphy](https://user-images.githubusercontent.com/89000535/177099666-3a8ff3d0-6c2e-47a3-b5b6-6b53300814d0.gif)
 
@@ -18,6 +19,19 @@
    - Practice experience ⚡️
 - 🏆 Some courses completed by the platform Digital Innovation One. 
 - 🏆 API for sending emails with deploy on heroku, developed in the final challenge NExT CESAR.
+##
+
+<div align="center">
+ <h2> History so far </h2>
+ 
+ ![shocked-heimerdinger](https://user-images.githubusercontent.com/89000535/177175756-f3a96c88-7aa5-48c5-8d1d-249fc57ae738.gif)
+ 
+</div>
+
+##
+
+<h4>Ex-university of Architecture and Urbanism, I started in the IT area studying at Digital Innovation on September 17, 2021, a bootcamp of HTML, CSS and Javascript was my starting point, it was where I became an enthusiast of programming, technology , started in the back-end with NExT at CESAR School, the Python modules, versioning using Git , Java and the practical experience were completed, finally, I am also studying Systems Analysis and Development at Estácio, scheduled to end in June 2024. The purpose that I didn't find in architecture, I found in IT, today I'm happy doing what I do and enjoying the whole process, I follow this path taking one step at a time towards my goals</h4>
+
 ##
 
 <div align="left">
