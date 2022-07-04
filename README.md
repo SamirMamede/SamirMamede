@@ -30,7 +30,7 @@
 
 ##
 
-<h4>Ex-university of Architecture and Urbanism, I started in the IT area studying at Digital Innovation on September 17, 2021, a bootcamp of HTML, CSS and Javascript was my starting point, it was where I became an enthusiast of programming, technology , started in the back-end with NExT at CESAR School, the Python modules, versioning using Git , Java and the practical experience were completed, finally, I am also studying Systems Analysis and Development at Estácio, scheduled to end in June 2024. The purpose that I didn't find in architecture, I found in IT, today I'm happy doing what I do and enjoying the whole process, I follow this path taking one step at a time towards my goals.</h4>
+<h4>Ex-university of Architecture and Urbanism, I started in the TI area studying at Digital Innovation on September 17, 2021, a bootcamp of HTML, CSS and Javascript was my starting point, it was where I became an enthusiast of programming, technology , started in the back-end with NExT at CESAR School, the Python modules, versioning using Git , Java and the practical experience were completed, finally, I am also studying Systems Analysis and Development at Estácio, scheduled to end in June 2024. The purpose that I didn't find in architecture, I found in TI, today I'm happy doing what I do and enjoying the whole process, I follow this path taking one step at a time towards my goals.</h4>
 
 ##
 
