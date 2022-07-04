@@ -1,5 +1,5 @@
 <div align="center">
- 🛸
+ 
  <h2> Hello, i'm Anuar Samir !!</h2>
  
  <h2> University in systems analysis and development. </h2>
