@@ -3,11 +3,7 @@
  
  <h2> University in systems analysis and development. 🤵 </h2>
  
-
-
-
-![tenor_1](https://user-images.githubusercontent.com/89000535/177077759-5bb5387e-8359-4e50-b62b-92aacfe34d81.gif)
-
+![giphy](https://user-images.githubusercontent.com/89000535/177099666-3a8ff3d0-6c2e-47a3-b5b6-6b53300814d0.gif)
 
  
 </div>
