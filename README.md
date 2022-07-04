@@ -13,8 +13,8 @@
 </div>
 
 ##
-- 🚀 Finishing NExT at CESAR school and attending the first period of ADS.
-- 🏆 NExT CESAR: 
+- 🚀 Studying ADS.
+- 🏆 Attended by NExT CESAR: 
    - Programming logic 👨‍💻 
    - Python 🐍🐼 
    - Versioning using Git 🧱🏗   
