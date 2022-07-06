@@ -24,7 +24,8 @@
 <div align="center">
  <h2> History so far </h2>
  
- ![shocked-heimerdinger](https://user-images.githubusercontent.com/89000535/177175756-f3a96c88-7aa5-48c5-8d1d-249fc57ae738.gif)
+![readme_header](https://user-images.githubusercontent.com/89000535/177470224-49123c3d-78e0-493a-9b30-962f722ea0ef.gif)
+
  
 </div>
 
