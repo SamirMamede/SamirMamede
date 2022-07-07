@@ -1,12 +1,11 @@
 <div align="center">
  
- <h2> Hello, i'm Anuar Samir !!</h2>
+ <h2> 👋 Hello, i'm Anuar Samir !!</h2>
  
- <h2> University in systems analysis and development. </h2>
- 
-![giphy](https://user-images.githubusercontent.com/89000535/177099666-3a8ff3d0-6c2e-47a3-b5b6-6b53300814d0.gif)
+<h2> 📚 University in systems analysis and development !! </h2>
 
- 
+![UG7Qz1DgO2x4](https://user-images.githubusercontent.com/89000535/177697544-a6a30ee5-5bcf-4f75-82e1-a986f9701fea.gif)
+
 </div>
 
 ##
