@@ -4,7 +4,8 @@
  
 <h2> 📚 University in systems analysis and development !! </h2>
 
-![UG7Qz1DgO2x4](https://user-images.githubusercontent.com/89000535/177697544-a6a30ee5-5bcf-4f75-82e1-a986f9701fea.gif)
+![space](https://user-images.githubusercontent.com/89000535/177871995-92de06e4-cf68-4be0-af37-93555eaf455e.gif)
+
 
 </div>
 
