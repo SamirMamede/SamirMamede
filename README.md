@@ -31,7 +31,7 @@
 
 ##
 
-<h4>Ex-university of Architecture and Urbanism, I started in the TI area studying at Digital Innovation on September 17, 2021, a bootcamp of HTML, CSS and Javascript was my starting point, it was where I became an enthusiast of programming, technology , started in the back-end with NExT at CESAR School, the Python modules, versioning using Git , Java and the practical experience were completed, finally, I am also studying Systems Analysis and Development at Estácio, scheduled to end in June 2024. The purpose that I didn't find in architecture, I found in TI, today I'm happy doing what I do and enjoying the whole process, I follow this path taking one step at a time towards my goals.</h4>
+<h4>    Ex-university of Architecture and Urbanism, I started in the TI area studying at Digital Innovation on September 17, 2021, a bootcamp of HTML, CSS and Javascript was my starting point, it was where I became an enthusiast of programming, technology , started in the back-end with NExT at CESAR School, the Python modules, versioning using Git , Java and the practical experience were completed, finally, I am also studying Systems Analysis and Development at Estácio, scheduled to end in June 2024. The purpose that I didn't find in architecture, I found in TI, today I'm happy doing what I do and enjoying the whole process, I follow this path taking one step at a time towards my goals.</h4>
 
 ##
 
@@ -55,21 +55,25 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-</div>
-  
+ </div>
   
   ##
   
+  <div align="center">
+ <h2> Contacts </h2>
+ </div>
   
-<div>
+<div align="center">
     <a href="https://instagram.com/samir.mamede" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/anuar-samir-farias-mamede-2ba299224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:anuarsamir@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/SamirMamede/SamirMamede/blob/output/github-contribution-grid-snake.svg)
-  
-  ##
+   
 </div>
+
+![Snake animation](https://github.com/SamirMamede/SamirMamede/blob/output/github-contribution-grid-snake.svg)
+
+##
+
 <!---
 SamirMamede/SamirMamede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
