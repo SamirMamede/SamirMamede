@@ -21,13 +21,8 @@
 - 🏆 API for sending emails with deploy on heroku, developed in the final challenge NExT CESAR school.
 ##
 
-<div align="center">
- <h2> History so far </h2>
- 
 ![readme_header](https://user-images.githubusercontent.com/89000535/177470224-49123c3d-78e0-493a-9b30-962f722ea0ef.gif)
 
- 
-</div>
 
 ##
 
@@ -40,6 +35,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamirMamede&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirMamede&layout=compact&langs_count=7&theme=dracula"/>  
 </div>
+
+##
+
+<h2> Worked so far </h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -59,16 +58,17 @@
   
   ##
   
-  <div align="center">
- <h2> Contacts </h2>
- </div>
   
-<div align="center">
+ <h2> Contacts </h2>
+
+  
+<div>
     <a href="https://instagram.com/samir.mamede" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/anuar-samir-farias-mamede-2ba299224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:anuarsamir@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-   
+    <a href = "mailto:anuarsamir@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
 </div>
+
+##
 
 ![Snake animation](https://github.com/SamirMamede/SamirMamede/blob/output/github-contribution-grid-snake.svg)
 
