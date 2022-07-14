@@ -11,14 +11,14 @@
 
 ##
 - 🚀 Studying ADS.
-- 🏆 Attended by NExT CESAR: 
+- 🏆 Finished NExT CESAR school: 
    - Programming logic 👨‍💻 
    - Python 🐍🐼 
    - Versioning using Git 🧱🏗   
    - Java ☕
    - Practice experience ⚡️
 - 🏆 Some courses completed by the platform Digital Innovation One. 
-- 🏆 API for sending emails with deploy on heroku, developed in the final challenge NExT CESAR.
+- 🏆 API for sending emails with deploy on heroku, developed in the final challenge NExT CESAR school.
 ##
 
 <div align="center">
@@ -54,6 +54,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
   
   
