@@ -1,46 +1,35 @@
 <div align="center">
  
  <h2> 👋 Hello, i'm Anuar Samir !!</h2>
- 
-<h2> 📚 University in systems analysis and development !! </h2>
 
 ![space](https://user-images.githubusercontent.com/89000535/177871995-92de06e4-cf68-4be0-af37-93555eaf455e.gif)
 
+<a href="https://github.com/SamirMamede" target="_blank"><img alt="Github"  src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://instagram.com/samir.mamede" target="_blank"><img alt="Instagram"  src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a> 
+   <a href="https://www.linkedin.com/in/samir-mamede" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> 
+   <a href="mailto:anuarsamir@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=White" /></a>
+
+   <a href="#">
+      <img alt="profile visit" src="https://profile-counter.glitch.me/SamirMamede/count.svg" width="200"/> 
+   </a>
+
+ 🚀 Studying ADS.
+ 🏆 NExT CESAR school. 
+ 🏆 Some courses completed by the platform Digital Innovation One. 
+ 🏆 API for sending emails with deploy on heroku, developed in the final challenge NExT CESAR school. 🚀
 
 </div>
 
 ##
-- 🚀 Studying ADS.
-- 🏆 Finished NExT CESAR school: 
-   - Programming logic 👨‍💻 
-   - Python 🐍🐼 
-   - Versioning using Git 🧱🏗   
-   - Java ☕
-   - Practice experience ⚡️
-- 🏆 Some courses completed by the platform Digital Innovation One. 
-- 🏆 API for sending emails with deploy on heroku, developed in the final challenge NExT CESAR school.
-##
-
-![readme_header](https://user-images.githubusercontent.com/89000535/177470224-49123c3d-78e0-493a-9b30-962f722ea0ef.gif)
 
 
-##
-
-<h4>    Ex-university of Architecture and Urbanism, I started in the TI area studying at Digital Innovation on September 17, 2021, a bootcamp of HTML, CSS and Javascript was my starting point, it was where I became an enthusiast of programming, technology , started in the back-end with NExT at CESAR School, the Python modules, versioning using Git , Java and the practical experience were completed, finally, I am also studying Systems Analysis and Development at Estácio, scheduled to end in June 2024. The purpose that I didn't find in architecture, I found in TI, today I'm happy doing what I do and enjoying the whole process, I follow this path taking one step at a time towards my goals.</h4>
-
-##
-
-<div align="left">
+<div align='center'>
   <a href="https://github.com/SamirMamede">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamirMamede&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirMamede&layout=compact&langs_count=7&theme=dracula"/>  
+  <img align="center" height="190.8em" src="https://github-readme-stats.vercel.app/api?username=SamirMamede&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" height="190.8em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirMamede&layout=compact&langs_count=7&theme=dracula"/>  
 </div>
 
-##
-
-<h2> Worked so far </h2>
-
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -56,23 +45,20 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
  </div>
   
-  ##
-  
-  
- <h2> Contacts </h2>
-
-  
-<div>
-    <a href="https://instagram.com/samir.mamede" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/anuar-samir-farias-mamede-2ba299224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:anuarsamir@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
-</div>
 
 ##
+
+<div align="center">
 
 ![Snake animation](https://github.com/SamirMamede/SamirMamede/blob/output/github-contribution-grid-snake.svg)
 
-##
+</div>
+
+<hr size="" width="" color=""></hr>
+
+<a href="#">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=SamirMamede&theme=xcode&color=ff809d&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="#" />
+   </a>
 
 <!---
 SamirMamede/SamirMamede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
