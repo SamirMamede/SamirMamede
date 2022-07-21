@@ -1,6 +1,6 @@
 <div align="center">
  
- <h2> 👋 Hello, i'm Anuar Samir !!</h2>
+ <h2> Building my luck !! 🤖</h2>
 
 ![space](https://user-images.githubusercontent.com/89000535/177871995-92de06e4-cf68-4be0-af37-93555eaf455e.gif)
 
