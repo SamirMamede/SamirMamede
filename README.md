@@ -1,8 +1,9 @@
 <div align="center">
  
  <h2> Building my luck !! 🤖</h2>
+ 
+![dinooff](https://user-images.githubusercontent.com/89000535/188519478-4a527490-2283-42eb-ad30-a3dbfb321440.gif)
 
-![space](https://user-images.githubusercontent.com/89000535/177871995-92de06e4-cf68-4be0-af37-93555eaf455e.gif)
 
 <a href="https://github.com/SamirMamede" target="_blank"><img alt="Github"  src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://instagram.com/samir.mamede" target="_blank"><img alt="Instagram"  src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a> 
