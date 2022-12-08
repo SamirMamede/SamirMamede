@@ -1,6 +1,6 @@
 <div align="center">
  
- <h3> Trust your heart if the seas catch fire. And live for love, even if the stars walk in the opposite direction. 🌠☄️</h2>
+ <h3> Trust your heart if the seas catch fire. And live for love, even if the stars walk in the opposite direction. 🌠</h2>
  
 ![dinooff](https://user-images.githubusercontent.com/89000535/188519478-4a527490-2283-42eb-ad30-a3dbfb321440.gif)
 
@@ -60,7 +60,7 @@
 <hr size="" width="" color=""></hr>
 
 <a href="#">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=SamirMamede&theme=xcode&color=ff809d&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="#" />
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=SamirMamede&theme=xcode&color=ff809d&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="" />
    </a>
 
 <!---
