@@ -15,7 +15,7 @@
       <img alt="profile visit" src="https://profile-counter.glitch.me/SamirMamede/count.svg" width="200"/> 
    </a>
 
- 🚀 Studying ADS.
+ 🚀 Studying Analysis and systems development.
  🏆 NExT CESAR school. 
  🏆 Some courses completed by the platform Digital Innovation One. 
  🏆 API for sending emails with deploy on heroku, developed in the final challenge NExT CESAR school. 🚀
