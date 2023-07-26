@@ -43,9 +43,7 @@
 |---|---|---|
 
 
-
-##
-
+<!---
 <div align="center">
 
 ![Snake animation](https://github.com/SamirMamede/SamirMamede/blob/output/github-contribution-grid-snake.svg)
@@ -57,6 +55,7 @@
 <a href="#">
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=SamirMamede&theme=xcode&color=ff809d&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="" />
    </a>
+--->
 
 <!---
 SamirMamede/SamirMamede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
