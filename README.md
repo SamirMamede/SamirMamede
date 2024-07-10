@@ -5,7 +5,7 @@
    <a href="https://www.linkedin.com/in/samir-mamede" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> 
    <a href="mailto:anuarsamir@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=White" /></a>
 
- 🚀 Studying Analysis and systems development.
+ 🏆 Analysis and systems development.
  🏆 NExT CESAR school. 
  👾 Back-end Developer
 
