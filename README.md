@@ -3,7 +3,7 @@
 **About Me** 🙂
 ================
 
-I'm a Systems Analyst and Developer with a background in back-end development.
+Highly motivated **Systems Analyst and Developer** with experience in developing scalable **back-end** systems using **Java** and **Python**. Skilled in **API integration**, **RESTful API design**, and strong understanding of **Agile** development methodologies and version control systems with **Git**.
 
 **Hard Skills**
 -------------
