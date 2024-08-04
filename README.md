@@ -1,6 +1,6 @@
 <div style="text-align: left;">
 
-**About Me**
+**About Me** 🙂
 ================
 
 I'm a Systems Analyst and Developer with a background in back-end development.
