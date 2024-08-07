@@ -5,27 +5,18 @@
 
 Highly motivated **Systems Analyst and Developer** with experience in developing scalable **back-end** systems using **Java** and **Python**. Skilled in **API integration**, **RESTful API design**, and strong understanding of **Agile** development methodologies and version control systems with **Git**.
 
-**Hard Skills**
 -------------
 
-| **Tech Stack** |
-| --- |
-| ☕ Java | 
-| 👾 Spring Boot |
-| 🐍 Python  |
-| 👾 Django  |
-
-**Soft Skills**
--------------
-
-* ✨ Adaptability
-* 💡 Critical Thinking
-* 📚 Quick Learning Ability
-* 🤝 Ability to work in a team and promote a collaborative development environment.
+| **Hard Skills** | **Soft Skills** |
+| --- | --- |
+| ☕ Java | ✨ Adaptability | 
+| 👾 Spring Boot | 💡 Critical Thinking |
+| 🐍 Python  | 📚 Quick Learning Ability  |
+| 👾 Django  | 🤝 Ability to work in a team and promote a collaborative development environment  |
 
 </div>
 
-##
+-------------
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
