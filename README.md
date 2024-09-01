@@ -48,17 +48,3 @@ Highly motivated **Systems Analyst and Developer** with experience in developing
 |---|---|---|
 
 ------------
-
-<div align="center">
-
-![Snake animation](https://github.com/SamirMamede/SamirMamede/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<hr size="" width="" color=""></hr>
-
-<a href="#">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=SamirMamede&theme=xcode&color=ff809d&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="" />
-   </a>
-
-
