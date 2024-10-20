@@ -11,7 +11,7 @@ Highly motivated **Systems Analyst and Developer** with experience in developing
 | ☕ Java | ✨ Adaptability |  🤖 LLM: Conversational AI |  🚀 API Project with Spring Boot |
 | 👾 Spring Boot | 💡 Critical Thinking | 📊 Predictive Analytics |  🛠️ API Development with Django Rest Framework |
 | 🐍 Python  | 📚 Quick Learning Ability  | 🌐 Web Scraping |  🌐 Web Development with Django |
-| 👾 Django  | 🤝 Ability to work in a team  | 🤖 Machine Learning |  📊 Data Analysis with Pandas |
+| 👾 Django  | 🤝 Ability to work in a team  | 📈 Projects with StreamLit |  📊 Data Analysis with Pandas |
 
 </div>
 
