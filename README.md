@@ -3,7 +3,7 @@
 **About Me** 🐱‍🏍
 ================
 
-Highly motivated **Systems Analyst and Developer** with experience in developing scalable **back-end** systems using **Java** and **Python**. Skilled in **API integration**, **RESTful API design**, and strong understanding of **Agile** development methodologies and version control systems with **Git**.
+**Systems Analyst and Developer** in constant evolution with experience in developing scalable **back-end** systems using **Java** with **Spring Boot** and **Python** with **Django and Django Rest Framework**. Skilled in **API integration**, **RESTful API design**, and strong understanding of **Agile** development methodologies and version control systems with **Git**.
 
 
 | **Hard Skills** | **Soft Skills** | **Areas of Interest** | **Projects and Experiences** 
