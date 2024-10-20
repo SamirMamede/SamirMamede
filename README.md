@@ -1,17 +1,17 @@
 <div style="text-align: left;">
 
-**About Me** 🙂
+**About Me** 🐱‍🏍
 ================
 
 Highly motivated **Systems Analyst and Developer** with experience in developing scalable **back-end** systems using **Java** and **Python**. Skilled in **API integration**, **RESTful API design**, and strong understanding of **Agile** development methodologies and version control systems with **Git**.
 
 
-| **Hard Skills** | **Soft Skills** |
-| --- | --- |
-| ☕ Java | ✨ Adaptability | 
-| 👾 Spring Boot | 💡 Critical Thinking |
-| 🐍 Python  | 📚 Quick Learning Ability  |
-| 👾 Django  | 🤝 Ability to work in a team and promote a collaborative development environment  |
+| **Hard Skills** | **Soft Skills** | **Areas of Interest** | **Projects and Experiences** 
+| --- | --- | --- | --- |
+| ☕ Java | ✨ Adaptability |  🤖 LLM: Conversational AI |  🚀 API Project with Spring Boot |
+| 👾 Spring Boot | 💡 Critical Thinking | 📊 Predictive Analytics |  🛠️ API Development with Django Rest Framework |
+| 🐍 Python  | 📚 Quick Learning Ability  | 🌐 Web Scraping |  🌐 Web Development with Django |
+| 👾 Django  | 🤝 Ability to work in a team  | 🤖 Machine Learning |  📊 Data Analysis with Pandas |
 
 </div>
 
