@@ -1,6 +1,6 @@
 <div style="text-align: left;">
 
-**About Me** 🐱‍🏍
+**About Me** :octocat:
 ================
 
 **Systems Analyst and Developer** in constant evolution with experience in developing scalable **back-end** systems using **Java** with **Spring Boot** and **Python** with **Django and Django Rest Framework**. Skilled in **API integration**, **RESTful API design**, and strong understanding of **Agile** development methodologies and version control systems with **Git**.
