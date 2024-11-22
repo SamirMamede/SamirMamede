@@ -3,7 +3,22 @@
 **About Me** :octocat:
 ================
 
-**Systems Analyst and Developer** in constant evolution with experience in developing scalable **back-end** systems using **Java** with **Spring Boot** and **Python** with **Django and Django Rest Framework**. Skilled in **API integration**, **RESTful API design**, and strong understanding of **Agile** development methodologies and version control systems with **Git**.
+Analista de sistemas e desenvolvedor em constante evolução com experiência no desenvolvimento de back-end usando Java com Spring Boot e Python com Django, Django Rest Framework e FastAPI. Habilidade em integração de APIs, design de APIs RESTful e forte compreensão de metodologias de desenvolvimento Agile.
+
+_ _ _ _ _ _
+
+Ever-evolving systems analyst and developer with experience in back-end development using Java with Spring Boot and Python with Django, Django Rest Framework and FastAPI. Skilled in API integration, RESTful API design and a strong understanding of Agile development methodologies.
+
+_ _ _ _ _ _ _ 
+
+- Análise e Desenvolvimento de Sistemas 👨🏻‍🎓
+- Programação back-end, Python e Java 🚀
+- Django, Django Rest Framework, FastAPI, Streamlit 🐍
+- Spring boot ☕️
+- Banco de dados relacional e não relacional
+- Testes unitários
+
+_ _ _ _ _ _ _
 
 
 | **Hard Skills** | **Soft Skills** | **Areas of Interest** | **Projects and Experiences** 
