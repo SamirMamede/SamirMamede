@@ -4,13 +4,13 @@
 ================
 
 ![Dev](https://img.shields.io/badge/Dev-Back--end-darkblue)
-![Linguagem Dominante](https://img.shields.io/badge/Linguagem-Python-red)
-![Linguagem Dominante](https://img.shields.io/badge/Linguagem-Java-green)
-![Banco de Dados](https://img.shields.io/badge/DB-MySQL-blue)
+![Linguagem Dominante](https://img.shields.io/badge/Language-Python-red)
+![Linguagem Dominante](https://img.shields.io/badge/Language-Java-green)
+![Banco de Dados](https://img.shields.io/badge/DB-SQL-blue)
 ![Banco de Dados](https://img.shields.io/badge/DB-NoSQL-lightblue)
 ![Framework](https://img.shields.io/badge/Framework-SpringBoot-lightgreen)
 ![Framework](https://img.shields.io/badge/Framework-Django-purple)
-![Mensageria](https://img.shields.io/badge/Mensageria-RabbitMQ-orange)
+![Mensageria](https://img.shields.io/badge/Messaging-RabbitMQ-orange)
 
 Analista de sistemas e desenvolvedor em constante evolução com experiência no desenvolvimento de back-end usando Java com Spring Boot e Python com Django, Django Rest Framework e FastAPI. Habilidade em integração de APIs, design de APIs RESTful e forte compreensão de metodologias de desenvolvimento Agile.
 
