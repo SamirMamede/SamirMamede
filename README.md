@@ -22,9 +22,6 @@ Ever-evolving systems analyst and developer with experience in back-end developm
 <a href="https://www.linkedin.com/in/samir-mamede" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> 
 <a href="mailto:anuarsamir@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=White" /></a>
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirMamede&show_icons=true&theme=dark&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) | [![GitHub Streak](https://streak-stats.demolab.com/?user=SamirMamede&theme=dark&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) |
-|---|---|
-
 ------------
 
 </div>
