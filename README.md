@@ -1,28 +1,46 @@
-<div style="text-align: left;">
 
-**About Me** :octocat:
-================
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Samir+!;Welcome+to+my+Github+page+%3A)" alt="Typing SVG" width="50%" />
+  </a>
+  <br>
+  <a href="mailto:anuarsamir@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 
-![Dev](https://img.shields.io/badge/Dev-Back--end-darkblue)
-![Linguagem Dominante](https://img.shields.io/badge/Language-Python-red)
-![Linguagem Dominante](https://img.shields.io/badge/Language-Java-green)
-![Banco de Dados](https://img.shields.io/badge/DB-SQL-blue)
-![Banco de Dados](https://img.shields.io/badge/DB-NoSQL-lightblue)
-![Framework](https://img.shields.io/badge/Framework-SpringBoot-lightgreen)
-![Framework](https://img.shields.io/badge/Framework-Django-purple)
-![Mensageria](https://img.shields.io/badge/Messaging-RabbitMQ-orange)
+  <a href="https://linkedin.com/in/samirmamede" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+<h2></h2>
 
-Analista de sistemas e desenvolvedor em constante evolução com experiência no desenvolvimento de back-end usando Java com Spring Boot e Python com Django, Django Rest Framework e FastAPI. Habilidade em integração de APIs, design de APIs RESTful e forte compreensão de metodologias de desenvolvimento Agile.
+<img align="right" src="https://github.com/user-attachments/assets/490c0dc4-3ac9-473a-96e9-1b84b5cbec9d" alt="coding cat" width="50%">
 
-_ _ _ _ _ _
+<div align="left">
+  <p>
+  <h3><strong> 💻 My Skills </strong> </h3>
+  <img src="https://skillicons.dev/icons?i=python,java,django,spring,aws,mysql,postgresql" width="30%">
+  </p>  
+  <p>  
+  <h3><strong> 📖 Currently Studying </strong></h3>
+  <img src="https://skillicons.dev/icons?i=rabbitmq,kafka" width="11%">   
+  </p> 
+ </div> 
+ 
+ <div align="center">
+  <br><h2></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=SamirMamede&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+ </div>
+ 
+<br><h2></h2><br>
 
-Ever-evolving systems analyst and developer with experience in back-end development using Java with Spring Boot and Python with Django, Django Rest Framework and FastAPI. Skilled in API integration, RESTful API design and a strong understanding of Agile development methodologies.
+<div align="center"> 
+<img src= "https://github-readme-stats.vercel.app/api?username=SamirMamede&theme=radical" width="46%" alt="stats graph" />
 
-<a href="https://instagram.com/samir.mamede" target="_blank"><img alt="Instagram"  src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a> 
-<a href="https://www.linkedin.com/in/samir-mamede" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> 
-<a href="mailto:anuarsamir@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=White" /></a>
-
-------------
+<img src= "https://github-readme-streak-stats-eight.vercel.app/?user=SamirMamede&theme=radical&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
 
 </div>
+<br>
+
+<!---
+julsales/julsales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
